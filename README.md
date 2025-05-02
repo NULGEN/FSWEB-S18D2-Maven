@@ -26,7 +26,8 @@ Tablo ilişiklerini görmek için [ktphn.png] dosyasına göz atın.
 Yazdığınız sorguları buradan test edebilirsiniz: [https://ergineer.com/assets/materials/fkg36so5-kutuphanebilgisistemi-sql/] (update, delete, drop sorguları iptal edilmiştir).
 
 ### Görevler
-* Öncelikle aşağıdaki sorguların tümünü yazdıktan sonra veritabanınızda çalıştırınız. Projenin içerisine yazdığınız sorguları eklemenize gerek yoktur.
+* Öncelikle aşağıdaki sorguların tümünü yazdıktan sonra veritabanınızda çalıştırınız.
+* Projenin içerisine yazdığınız sorguları eklemenize gerek yoktur.
 * Uygulamadaki testler yazdığınız sorguların tümünün veritabanında çalıştırıldığını varsayarak test edeceklerdir. Bu yüzden aşağıdaki 10 sorgu için yazdığınız queryleri mutlaka veritabanında çalıştırdıktan sonra test kısmına geliniz.
 
       1) Biyografi türünü tür tablosuna ekleyiniz.
